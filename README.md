@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @awolope
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning REACT
-- 💞️ I’m looking to collaborate on HTML, CSS JS.
+- 🌱 I’m currently learning next.js
+- 💞️ I’m looking to collaborate on HTML, CSS, JS,react.js, vite, node.js.
 - 📫 How to reach me https://www.instagram.com/hernnieshaven_hh/?hl=en
 - 😄 Pronouns: SHE
 - ⚡ Fun fact: I love fashion.
